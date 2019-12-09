@@ -50,6 +50,6 @@ Use the following credentials to login
 email: homero@mail.com
 pass: password
 ```
-<hr />
+
 ### About the author
 I like coffee, you can write me on twitter [@dcyar_](https://twitter.com/dcyar_)
